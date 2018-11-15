@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Category.cs](./CS/WebSite/App_Code/Category.cs) (VB: [Category.vb](./VB/WebSite/App_Code/Category.vb))
+* [Person.cs](./CS/WebSite/App_Code/Person.cs) (VB: [Person.vb](./VB/WebSite/App_Code/Person.vb))
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+<!-- default file list end -->
 # How to use a CheckBoxList on the EditForm template
 
 
