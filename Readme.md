@@ -7,6 +7,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to use a CheckBoxList on the EditForm template
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e1107/)**
+<!-- run online end -->
 
 
 <p>The example shows how to edit a grid column's value with a multi-selection control (CheckBoxList).<br />
